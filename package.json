@@ -5,6 +5,7 @@
   "module": "dist/index.es.js",
   "author": "Collabra",
   "license": "MIT",
+  "private": true,
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-react": "^7.12.10",
